@@ -19,7 +19,7 @@ A simple inventory management app built with Flutter for tracking store products
 
 ## 🎥 Demo Video
 
-[Watch demo video] (Add your demo video link)
+[Watch demo video] (https://drive.google.com/file/d/1Q8V5N36BsSZgN14V9K7NPG01dVQgtsso/view?usp=drive_link)
 
 ## 📱 Installation
 
