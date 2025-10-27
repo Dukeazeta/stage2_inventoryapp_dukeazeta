@@ -13,7 +13,9 @@ A simple inventory management app built with Flutter for tracking store products
 ## 📱 Download
 
 - **GitHub Repository**: [stage2_inventoryapp_dukeazeta](https://github.com/dukeazeta/stage2_inventoryapp_dukeazeta)
-- **Release APK**: [Download APK here] (Add your APK download link)
+- **Release APK**: [Download latest APK from GitHub Releases](https://github.com/dukeazeta/stage2_inventoryapp_dukeazeta/releases/latest)
+
+> 💡 **Automatic Builds**: This project uses GitHub Actions to automatically build and release APKs when version tags are pushed. Download the latest release from the link above.
 
 ## 🎥 Demo Video
 
